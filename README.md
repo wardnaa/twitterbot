@@ -49,4 +49,5 @@ Note :
 - untuk temporary email itu aku make temporary email dari https://tempmail.net tapi tak scraping pake piton
 - untuk verification codenya juga sama make output dari https://tempmail.net yang ta scaping lagi
 - untuk errornya soon ta fix lagi mager cok!
+- kalo output verification codenya lama ya maap
 - This is a life [About Me](https://www.instagram.com/wardnaa.a)

@@ -1,0 +1,10 @@
+beautifulsoup4==4.9.1
+blinker==1.4
+bs4==0.0.1
+colorama==0.3.9
+requests==2.22.0
+requests-unixsocket==0.2.0
+selenium==3.141.0
+termcolor==1.1.0
+urllib3==1.25.9
+wget==3.2
